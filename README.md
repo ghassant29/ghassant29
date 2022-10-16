@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ghassant29
 - 👀 I’m interested in front-end developement
-- 🌱 I’m currently learning back-end devlopement
 - 📫 How to reach me gass304@gmail.com
 
 <!---
